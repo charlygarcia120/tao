@@ -11,3 +11,8 @@ https://intranetmz.tripod.com/cgi-bin/tao/gen1.cgi
 Begin to search examples and other table generators online
   * https://www.tablesgenerator.com/
   * https://www.quackit.com/html/html_table_generator.cfm
+
+
+### 21 Abr 2021: Select the template of a basic table
+Select the example of table that is in: 
+  * https://www.w3schools.com/html/tryit.asp?filename=tryhtml_table_id2
